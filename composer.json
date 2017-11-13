@@ -1,0 +1,14 @@
+{
+    "name": "pandeptwidyaop/alert",
+    "description": "Thi package help to make alert using session flash",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pande Putu Widya Oktapratama",
+            "email": "widya.oktapratama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
