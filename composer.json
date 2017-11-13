@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pandeptwidyaop\\Alert\\": "src"
+            "Pandeptwidyaop\\Alert\\": "src/"
         }
     },
     "extra": {
